@@ -1,0 +1,4 @@
+name: Discord-Bot-API
+version: 1.0
+main: main.java.com.tjplaysnow.discord.main.PluginMain
+author: TJPlaysNow
